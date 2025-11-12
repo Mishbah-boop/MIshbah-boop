@@ -21,10 +21,11 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=html,java&perline=3)](https://skillicons.dev)
 <img src="https://img.shields.io/badge/CoffeeScript-2F2625?style=for-the-badge&logo=CoffeeScript&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src ="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+
 
 ### Coding with
 [![My Skills](https://skillicons.dev/icons?i=vscode&perline=3)](https://skillicons.dev)
-<img src ="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
 
 ### Connect with me
 ![https://www.tiktok.com/@mizz_ftbl7?_r=1&_t=ZS-91IVEG9LugW](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
